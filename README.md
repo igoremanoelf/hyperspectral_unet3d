@@ -46,7 +46,8 @@ O modelo foi validado utilizando o dataset *Indian Pines* simulando um cenário 
 
 O mapa de calor abaixo demonstra a capacidade do modelo de isolar a assinatura espectral do alvo (em vermelho) ignorando o ruído de fundo complexo urbano/rural.
 
-*(Insira aqui a imagem do Overlay que você gerou)*
+<img width="1953" height="596" alt="image" src="https://github.com/user-attachments/assets/5ce95eef-44fd-431c-8e7b-a3d055617917" />
+
 
 ## 🛠️ Instalação e Uso
 
